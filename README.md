@@ -1,2 +1,3 @@
 # react-socket-vending-machine
-react-socket with vending machine
+
+vending machine simulation with react-socket
